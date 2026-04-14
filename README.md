@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mí
 
-Desarrollador Junior enfocado en frontend y aplicaciones mobile.
+Desarrollador frontend Junior enfocado en aplicaciones web y mobile.
 Me especializo en construir interfaces modernas consumiendo APIs y creando soluciones reales.
 
 * 📱 Desarrollo aplicaciones con React Native
