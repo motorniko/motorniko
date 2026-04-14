@@ -5,7 +5,7 @@
 <p align="center">
   💻 Frontend Developer | 📱 Mobile & Web
 </p>
-
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Native+Developer;Vue+Frontend+Developer;Construyendo+apps+reales;Aprendiendo+y+mejorando&center=true&width=500&height=45">
 </p>
@@ -14,7 +14,6 @@
 👉 <a href="https://motorniko.github.io/">Ver mi portfolio</a>
 </p>
 
----
 
 ## 🧠 Sobre mí
 
