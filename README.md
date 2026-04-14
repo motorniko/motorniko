@@ -10,8 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Native+Developer;Vue+Frontend+Developer;Construyendo+apps+reales;Aprendiendo+y+mejorando&center=true&width=500&height=45">
 </p>
 
-👉 [Ver mi portfolio completo](https://motorniko.github.io/) https://motorniko.github.io/
-
+👉 [Ver mi portfolio completo](https://motorniko.github.io/)
+   https://motorniko.github.io/
 ---
 
 ## 🧠 Sobre mí
