@@ -10,19 +10,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Native+Developer;Vue+Frontend+Developer;Construyendo+apps+reales;Aprendiendo+y+mejorando&center=true&width=500&height=45">
 </p>
 
-👉 [Ver mi portfolio completo](https://motorniko.github.io/) | motorniko.github.io
+<p align="center">
+👉 <a href="https://motorniko.github.io/">Ver mi portfolio</a>
+</p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Desarrollador frontend Junior enfocado en aplicaciones web y mobile.
-Me especializo en construir interfaces modernas consumiendo APIs y creando soluciones reales.
+Desarrollador frontend enfocado en aplicaciones web y mobile.  
+Me especializo en construir interfaces modernas consumiendo APIs y desarrollando soluciones reales.
 
-* 📱 Desarrollo aplicaciones con React Native
-* 🌐 Integración de APIs REST
-* ⚡ Enfoque práctico (aprendo haciendo)
-* 💡 Interesado en productos digitales y monetización
+- 📱 Desarrollo aplicaciones con React Native  
+- 🌐 Integración de APIs REST  
+- ⚡ Enfoque práctico (aprendo haciendo)  
+- 💡 Interesado en productos digitales y monetización  
 
 ---
 
@@ -37,7 +39,12 @@ Me especializo en construir interfaces modernas consumiendo APIs y creando soluc
 ### ⚙️ Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,vue,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/>
+</p>
+
+<p align="center">
+  📱 También desarrollo con React Native
 </p>
 
 ### 🧪 Testing
@@ -52,77 +59,53 @@ Me especializo en construir interfaces modernas consumiendo APIs y creando soluc
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 </p>
 
-### 👨‍💻 Lenguajes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
-</p>
-
-### ⚙️ Frontend & Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite" />
-</p>
-
-### 🔧 Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
-
 ---
 
 ## 🚀 Proyectos
 
 ### 🏞️ App de Turismo en Caburgua
 
-Aplicación mobile diseñada para resolver la falta de información turística 
-centralizada en Caburgua, permitiendo a los usuarios encontrar lugares, servicios, navegar fácilmente y acceder a información clave en tiempo real.
+Aplicación mobile enfocada en mejorar la experiencia turística en Caburgua, permitiendo acceder a información centralizada de lugares, servicios y navegación.
 
 **Características:**
+- 📍 Lugares, cabañas y servicios desde API  
+- 🗺️ Integración con Google Maps y Waze  
+- 📞 Accesos rápidos a emergencias  
+- ⚡ Integración frontend + backend  
 
-* 📍 Lugares, cabañas, negocios y servicios desde API
-* 🗺️ Navegación con Google Maps y Waze
-* 📞 Llamadas de emergencia
-* ⚡ Integración frontend + backend
-
-**Stack:** React Native · Expo · JavaScript · Python
+**Stack:** React Native · Expo · JavaScript · Python  
 
 ---
 
 ### 🌎 App de Sismos en Chile
 
-Aplicación mobile que resuelve la necesidad de acceso 
-rápido a información sísmica, mostrando eventos en tiempo real de forma clara y fácil de consultar.
+Aplicación mobile que permite consultar eventos sísmicos en tiempo real de forma clara y rápida.
 
 **Características:**
+- 🌐 Consumo de API sísmica  
+- ⚡ Datos en tiempo real  
+- 📱 Interfaz optimizada  
 
-* 🌐 Consumo de API sísmica
-* ⚡ Datos en tiempo real
-* 📱 Interfaz rápida
-
-**Stack:** React Native · JavaScript
+**Stack:** React Native · JavaScript  
 
 ---
 
 ### 🌦️ App de Clima
 
-Aplicación web diseñada para facilitar la consulta del clima en tiempo real
-entregando datos actualizados y fáciles de interpretar para el usuario.
+Aplicación web para consultar el clima en tiempo real con datos dinámicos y visualización clara.
 
 **Características:**
+- 🌐 Consumo de API de clima  
+- 🔄 Datos actualizados  
+- 📊 Interfaz simple y clara  
 
-* 🌐 Consumo de API de clima
-* 🔄 Datos dinámicos
-* 📊 Interfaz clara
+**Stack:** Vue.js · Vite · Axios  
 
-**Stack:** Vue.js · Vite · Axios
-
-🔗 Demo:
+🔗 Demo:  
 https://portfoliom7.albertolagos59.workers.dev/#/
 
-🔗 Repo:
-https://github.com/motorniko/Portfolio-Modulo-7-sustantiva-Cence.git
+🔗 Repo:  
+https://github.com/motorniko/Portfolio-Modulo-7-sustantiva-Cence.git  
 
 ---
 
@@ -145,5 +128,5 @@ https://github.com/motorniko/Portfolio-Modulo-7-sustantiva-Cence.git
 ---
 
 <p align="center">
-⭐ Enfocado en crecer como desarrollador frontend y construir proyectos reales
+⭐ Enfocado en crecer como desarrollador frontend y construir soluciones reales
 </p>
