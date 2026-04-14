@@ -30,33 +30,22 @@ Me especializo en construir interfaces modernas consumiendo APIs y desarrollando
 
 ## 🛠️ Tecnologías
 
-### 👨‍💻 Lenguajes
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java" />
-</p>
+<!-- Lenguajes -->
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java" /><br><br>
 
-### ⚙️ Frontend & Mobile
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/><br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/>
+<!-- Herramientas -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+
 </p>
 
 <p align="center">
-  📱 También desarrollo con React Native
-</p>
-
-### 🧪 Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vitest" />
-</p>
-
-### 🔧 Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+💡 Enfocado en React, React Native y Vue para desarrollo de interfaces modernas
 </p>
 
 ---
