@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mí
 
-Desarrollador **Junior** enfocado en frontend y aplicaciones mobile.
+Desarrollador Junior enfocado en frontend y aplicaciones mobile.
 Me especializo en construir interfaces modernas consumiendo APIs y creando soluciones reales.
 
 * 📱 Desarrollo aplicaciones con React Native
@@ -52,7 +52,8 @@ Me especializo en construir interfaces modernas consumiendo APIs y creando soluc
 
 ### 🏞️ App de Turismo en Caburgua
 
-Aplicación mobile enfocada en mejorar la experiencia turística en Caburgua.
+Aplicación mobile diseñada para resolver la falta de información turística 
+centralizada en Caburgua, permitiendo a los usuarios encontrar lugares, servicios, navegar fácilmente y acceder a información clave en tiempo real.
 
 **Características:**
 
@@ -67,7 +68,8 @@ Aplicación mobile enfocada en mejorar la experiencia turística en Caburgua.
 
 ### 🌎 App de Sismos en Chile
 
-Aplicación mobile que permite consultar eventos sísmicos en tiempo real.
+Aplicación mobile que resuelve la necesidad de acceso 
+rápido a información sísmica, mostrando eventos en tiempo real de forma clara y fácil de consultar.
 
 **Características:**
 
@@ -81,7 +83,8 @@ Aplicación mobile que permite consultar eventos sísmicos en tiempo real.
 
 ### 🌦️ App de Clima
 
-Aplicación web para consultar el clima en tiempo real.
+Aplicación web diseñada para facilitar la consulta del clima en tiempo real
+entregando datos actualizados y fáciles de interpretar para el usuario.
 
 **Características:**
 
