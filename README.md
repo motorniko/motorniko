@@ -31,6 +31,30 @@ Me especializo en construir interfaces modernas consumiendo APIs y creando soluc
 ### 👨‍💻 Lenguajes
 
 <p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java" />
+</p>
+
+### ⚙️ Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,vue,nextjs,vite" />
+</p>
+
+### 🧪 Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest" />
+</p>
+
+### 🔧 Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
+
+### 👨‍💻 Lenguajes
+
+<p>
   <img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
 </p>
 
