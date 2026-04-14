@@ -36,13 +36,7 @@ Me especializo en construir interfaces modernas consumiendo APIs y desarrollando
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/>
-
-<br><br>
-
-<!-- Fila 2: Complementarias -->
 <img src="https://skillicons.dev/icons?i=vite,vitest,python,java,git,github,postman,vscode,idea" />
-
-</p>
 
 <p align="center">
 💡 Enfocado en React, Next.js y desarrollo mobile con React Native + Expo
