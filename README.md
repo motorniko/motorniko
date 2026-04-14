@@ -36,8 +36,7 @@ Me especializo en construir interfaces modernas consumiendo APIs y desarrollando
 <img src="https://skillicons.dev/icons?i=js,html,css,python,java" /><br><br>
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/><br><br>
 
 <!-- Testing -->
 <img src="https://skillicons.dev/icons?i=vitest" /><br><br>
