@@ -32,30 +32,21 @@ Me especializo en construir interfaces modernas consumiendo APIs y desarrollando
 
 <p align="center">
 
-<!-- Lenguajes -->
-<img src="https://skillicons.dev/icons?i=js,html,css,python,java" /><br><br>
+<!-- Fila 1: Core -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/>
 
-<!-- Frontend principal -->
-<img src="https://skillicons.dev/icons?i=react,nextjs" /><br><br>
+<br><br>
 
-<!-- Mobile -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="48"/><br><br>
-
-<!-- Complementarios -->
-<img src="https://skillicons.dev/icons?i=vite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48"/><br><br>
-
-<!-- Testing -->
-<img src="https://skillicons.dev/icons?i=vitest" /><br><br>
-
-<!-- Herramientas -->
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+<!-- Fila 2: Complementarias -->
+<img src="https://skillicons.dev/icons?i=vite,vitest,python,java,git,github,postman,vscode,idea" />
 
 </p>
 
 <p align="center">
 💡 Enfocado en React, Next.js y desarrollo mobile con React Native + Expo
 </p>
-
 ---
 
 ## 🚀 Proyectos
