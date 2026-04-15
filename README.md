@@ -5,7 +5,7 @@
 <p align="center">
   💻 Frontend Developer | 📱 Mobile & Web
 </p>
-<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Native+Developer;Vue+Frontend+Developer;Construyendo+apps+reales;Aprendiendo+y+mejorando&center=true&width=500&height=45">
 </p>
@@ -28,9 +28,10 @@ Me especializo en construir interfaces modernas consumiendo APIs y desarrollando
 ---
 
 ## 🛠️ Tecnologías
+<br>
+<br>
 
 <p align="center">
-
 <!-- Fila 1: Core -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="48"/>
@@ -40,7 +41,6 @@ Me especializo en construir interfaces modernas consumiendo APIs y desarrollando
 <p align="center">
 💡 Enfocado en React, Next.js y desarrollo mobile con React Native + Expo
 </p>
----
 
 ## 🚀 Proyectos
 
